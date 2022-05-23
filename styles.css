@@ -1,0 +1,27 @@
+h1{color:#8F03B2;
+	font-size: 5em;
+	font-family: Courier New, monospace;
+	width: 1250px;
+	text-align: center;
+}
+h2{
+	font-size: 2em;
+	font-family: Courier New, monospace;
+	width: 1250px;
+	text-align: center;
+}
+h3{font-family: monospace;
+width: 1250px;
+	text-align: center;
+text-decoration: underline;
+color:#8F03B2}
+p{font-family: monospace;
+text-align: center;
+font-size: 1.3em;}
+
+li{font-family: monospace;
+font-size: 20px;}
+
+body{background-color:#E1DCB7;}
+a{text-decoration: none;}
+b{color:#8F03B2}
